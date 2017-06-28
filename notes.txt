@@ -1,0 +1,7 @@
+Functionality kept seperate:
+
+Routing goes in routes
+
+Functionality goes in controllers
+
+server.js covers just setting up of actual server.
